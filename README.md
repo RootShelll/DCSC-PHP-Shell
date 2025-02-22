@@ -2,6 +2,9 @@
 
 Welcome to the comprehensive guide for the **DCSC PHP Shell** 🎉 – a lightweight yet powerful PHP tool designed for penetration testing, Capture The Flag (CTF) challenges, and various cybersecurity tasks 🔐. Originally created during a PWK/OSCP journey, this shell is a practical solution intended to offer only the essential functionalities required for security testing 🛠️.
 
+![File Upload Feature](https://r00t-shell.com/wp-content/uploads/2025/02/DCSC-PHP-Shell.gif)
+
+
 ## What is DCSC PHP Shell?
 
 The **DCSC PHP Shell** is a streamlined PHP script that integrates key functionalities including:
